@@ -7,6 +7,8 @@ public class Test1 {
 		
 		System.out.println("修改了啊");
 		
+		System.out.println("这是master的");
+		
 		
 		
 	}
